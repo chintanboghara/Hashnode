@@ -7,7 +7,7 @@ cuid: cm5dcaxvi00010al70l660c6w
 slug: azure-devops-a-comprehensive-guide-for-seamless-software-delivery
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735645707905/99532501-9439-41d7-90ed-98fe6283134c.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1735580570033/d5084471-0f28-4849-b7fc-ba3e0d4fd93d.png
-tags: cloud, devops, sre, devsecops, azure-devops
+tags: cloud, devops, sre, devsecops, azure-devops, platform-engineering
 
 ---
 
