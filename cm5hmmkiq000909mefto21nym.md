@@ -6,7 +6,7 @@ datePublished: Sat Jan 04 2025 03:30:51 GMT+0000 (Coordinated Universal Time)
 cuid: cm5hmmkiq000909mefto21nym
 slug: github-cli
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735958596493/e2d7295e-7eac-4718-be61-695ef22fdd5b.png
-tags: cloud, github, devops, sre, devsecops, github-cli
+tags: cloud, github, devops, sre, devsecops, github-cli, platform-engineering
 
 ---
 
