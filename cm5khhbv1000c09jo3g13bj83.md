@@ -6,7 +6,7 @@ datePublished: Mon Jan 06 2025 03:30:07 GMT+0000 (Coordinated Universal Time)
 cuid: cm5khhbv1000c09jo3g13bj83
 slug: all-you-need-to-know-to-start-with-docker-a-handbook
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736099573120/f64fccd8-c1b5-416b-930d-09b6a858be46.png
-tags: cloud, docker, kubernetes, devops, sre, devsecops, dockerfile, docker-compose, docker-images, docker-network
+tags: cloud, docker, kubernetes, devops, sre, devsecops, dockerfile, docker-compose, docker-images, docker-network, platform-engineering
 
 ---
 
