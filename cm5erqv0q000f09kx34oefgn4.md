@@ -7,7 +7,7 @@ cuid: cm5erqv0q000f09kx34oefgn4
 slug: simplifying-database-migration-with-aws-dms-a-complete-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735742552267/9ebf766c-5c03-42da-9aa1-18107a33d274.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1735753314760/423c9ee9-94f4-4c95-a305-aad10b29725d.png
-tags: cloud, aws, devops, sre, devsecops, aws-dms
+tags: cloud, aws, devops, sre, devsecops, platform-engineering, aws-dms
 
 ---
 
