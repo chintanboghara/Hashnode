@@ -16,7 +16,7 @@ OpenShift, created by Red Hat, is a strong and flexible platform that combines K
 
 OpenShift is a container application platform built on Kubernetes. It enhances Kubernetes by providing extra features that make container orchestration, application lifecycle management, and developer productivity easier. OpenShift is available as both a self-managed solution (OpenShift Container Platform) and a managed service (OpenShift Online and OpenShift Dedicated), designed to meet various operational needs.
 
-Key features of OpenShift include:
+**Key features of OpenShift include**
 
 ● Enterprise-Grade Kubernetes: Provides improved security, monitoring, and governance.
 
