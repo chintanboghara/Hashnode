@@ -14,7 +14,17 @@ OpenShift, created by Red Hat, is a strong and flexible platform that combines K
 
 ## What is OpenShift?
 
-OpenShift is a container application platform built on Kubernetes. It enhances Kubernetes by providing extra features that make container orchestration, application lifecycle management, and developer productivity easier. OpenShift is available as both a self-managed solution (OpenShift Container Platform) and a managed service (OpenShift Online and OpenShift Dedicated), designed to meet various operational needs. Key features of OpenShift include: ● Enterprise-Grade Kubernetes: Offers enhanced security, monitoring, and governance. ● Built-In CI/CD Pipelines: Provides integrated tools for automated builds and deployments. ● Developer-Friendly: Features streamlined workflows with tools like Source-to-Image (S2I). ● Hybrid Cloud Support: Works consistently across on-premises and cloud environments.
+OpenShift is a container application platform built on Kubernetes. It enhances Kubernetes by providing extra features that make container orchestration, application lifecycle management, and developer productivity easier. OpenShift is available as both a self-managed solution (OpenShift Container Platform) and a managed service (OpenShift Online and OpenShift Dedicated), designed to meet various operational needs.
+
+Key features of OpenShift include:
+
+● Enterprise-Grade Kubernetes: Provides improved security, monitoring, and governance.
+
+● Built-In CI/CD Pipelines: Includes tools for automated builds and deployments.
+
+● Developer-Friendly: Offers streamlined workflows with tools like Source-to-Image (S2I).
+
+● Hybrid Cloud Support: Operates consistently across on-premises and cloud environments.
 
 [![Screenshot of a Red Hat OpenShift dashboard displaying a successful pipeline run with steps like code analysis, building, deploying, and testing. Various icons and navigation options are visible on the left.](https://cdn.hashnode.com/res/hashnode/image/upload/v1736054828845/3cf8e401-69e0-43f4-b4da-278007135354.png align="center")](https://www.redhat.com/rhdc/managed-files/openshift-hero-img-ohs1.png)
 
