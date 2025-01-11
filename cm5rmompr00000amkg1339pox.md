@@ -6,7 +6,7 @@ datePublished: Sat Jan 11 2025 03:30:09 GMT+0000 (Coordinated Universal Time)
 cuid: cm5rmompr00000amkg1339pox
 slug: how-ssl-certificates-work-securing-the-internet-one-connection-at-a-time
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736215741832/add3dacb-87d6-4927-b640-bf6dd9ecc93d.png
-tags: ssl, cloud, devops, ssl-certificate, sre, devsecops
+tags: ssl, cloud, devops, ssl-certificate, sre, devsecops, platform-engineering
 
 ---
 
