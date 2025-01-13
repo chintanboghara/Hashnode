@@ -60,7 +60,7 @@ d. Scheduler (kube-scheduler)
 * **Usage:** Ensures balanced resource use and follows deployment constraints.
     
 
-[![Components of Kubernetes](https://kubernetes.io/images/docs/components-of-kubernetes.svg align="left")](https://kubernetes.io/images/docs/components-of-kubernetes.svg)
+[![Diagram illustrating a Kubernetes architecture. It features a Control Plane with etcd, API Server, Controller Manager, and Scheduler. The Worker Node has Kubelet, which interfaces with Docker for container runtime. Images are pulled from an Image Store.](https://cdn.hashnode.com/res/hashnode/image/upload/v1736733537107/d7f3fc7a-088c-4fd2-b1d4-07fb174f1901.png align="center")](https://chkrishna.medium.com/kubernetes-architecture-f7ca63fff46e)
 
 ## Node Components
 
