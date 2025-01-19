@@ -5,7 +5,7 @@ seoDescription: "Explore GitHub CLI: a command-line tool to manage GitHub reposi
 datePublished: Sat Jan 04 2025 03:30:51 GMT+0000 (Coordinated Universal Time)
 cuid: cm5hmmkiq000909mefto21nym
 slug: github-cli
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735958596493/e2d7295e-7eac-4718-be61-695ef22fdd5b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737266760449/11504d2b-0a74-4d2d-921d-abc554e76143.png
 tags: cloud, github, devops, sre, devsecops, github-cli, platform-engineering
 
 ---
