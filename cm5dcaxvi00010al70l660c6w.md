@@ -88,8 +88,6 @@ Azure DevOps is a complete set of tools and services created by Microsoft to hel
         * Versioning and dependency management.
             
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735448954896/12f66c3c-6ad5-4887-a8ff-24033e31c6b6.png align="center")
-
 ## **Advantages of Azure DevOps**
 
 1. **Flexibility**:
