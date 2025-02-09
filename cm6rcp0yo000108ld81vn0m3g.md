@@ -6,7 +6,7 @@ datePublished: Wed Feb 05 2025 03:30:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm6rcp0yo000108ld81vn0m3g
 slug: terraform-associate-what-is-infrastructure-as-code-with-terraform
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738211257929/2932d51f-4172-4426-b2b7-637677da6a05.png
-tags: cloud, devops, sre, terraform, devsecops, platform-engineering, terraform-associate
+tags: cloud, devops, sre, terraform, devsecops, platform-engineering, iac-infrastructure-as-code, terraform-associate
 
 ---
 
