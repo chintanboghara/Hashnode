@@ -6,7 +6,7 @@ datePublished: Sun Feb 09 2025 03:30:12 GMT+0000 (Coordinated Universal Time)
 cuid: cm6x2gex1000309i9fcgw8gu8
 slug: terraform-associate-lock-and-upgrade-provider-versions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738211421287/1a4abb34-4e85-426c-be99-b8bad17667b5.png
-tags: cloud, devops, sre, terraform, devsecops, platform-engineering, terraform-associate
+tags: cloud, devops, sre, terraform, devsecops, platform-engineering, iac-infrastructure-as-code, terraform-associate
 
 ---
 
