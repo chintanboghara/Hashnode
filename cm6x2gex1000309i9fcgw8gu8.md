@@ -1,5 +1,5 @@
 ---
-title: "Terraform Associate: Lock and upgrade provider versions"
+title: "Terraform Associate: Lock and Upgrade Provider Versions"
 seoTitle: "Locking and Upgrading Terraform Provider Versions"
 seoDescription: "Learn how to lock and upgrade provider versions in Terraform to ensure consistency, prevent breaking changes, and maintain secure infrastructure"
 datePublished: Sun Feb 09 2025 03:30:12 GMT+0000 (Coordinated Universal Time)
