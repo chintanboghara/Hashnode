@@ -1,5 +1,5 @@
 ---
-title: "Terraform Associate: Build infrastructure"
+title: "Terraform Associate: Build Infrastructure"
 seoTitle: "Terraform Basics: Build Infrastructure"
 seoDescription: "Build and manage cloud infrastructure with Terraform using declarative configuration files and provider APIs in this step-by-step guide"
 datePublished: Thu Feb 13 2025 03:30:25 GMT+0000 (Coordinated Universal Time)
